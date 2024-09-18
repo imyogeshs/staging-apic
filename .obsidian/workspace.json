@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "2574a029e0815b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df5c77526788f23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e9b10592058728",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3b5e3f506089a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "589eb5c4f80f7e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7415b37c790712",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b00788db09f77547",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "083a36e270c4e0da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "right": {
+    "id": "d1303f5c52f5e51b",
+    "type": "split",
+    "children": [
+      {
+        "id": "037bb199944f925e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f32f4b6d25447c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6943db203bc7115",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2bf414bbe43ee9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1eb93ed6b31295d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1eb93ed6b31295d5",
+  "lastOpenFiles": [
+    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
+    "build/blog/rss.xsl",
+    "build/opensearch.xml",
+    "build/sitemap.xml",
+    "build/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/DNSRequirements/index.html",
+    "build/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/DNSRequirements",
+    "build/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/About/index.html",
+    "build/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/About",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/FrequentlyAskedQuestions/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/SystemRequirements/index.html",
+    "build/docs/Subscribers/Storage/ObjectStogageBucket/FeatureListandIntegrationDetails/index.html",
+    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
+    "docs/Subscribers/Compute/LinuxInstances/VolumeManagementwithLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ViewingDetailsofLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagementwithLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/LinuxInstanceOperations.md",
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlertsonLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
+    "docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails.md",
+    "docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters.md",
+    "docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters.md",
+    "docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster.md",
+    "build/assets/images/WorkingwithInstanceVolumes3-10948a5809b475d7675be6cb3f7c59df.png",
+    "build/assets/images/ZabbixDashboardandNMS-c2527f0b200a02597ac742e94af5a959.png",
+    "build/assets/images/WorkingwithInstanceVolumes1-12ec44de4d94a6468f181be2360df1cd.png",
+    "build/assets/images/WorkingwithVolumeSnapshots-c897e055a14dfa237b7df4e34942d01b.png",
+    "build/assets/images/WorkingwithInstanceVolumes2-e9ad4771096096b56b2e00a5e368ec18.png",
+    "build/assets/images/WorkingwithDiscountCodes7-33c4dd24fc7d924f4aaf8712f1989d54.png",
+    "build/assets/images/WorkingwithDiscountCodes8-3c029b00e303846b5dbaece44344bb0c.png",
+    "build/assets/images/WorkingwithDiscountCodes9-20fc6541fdd4044d0bd5b2d91359a32f.png",
+    "build/assets/images/WorkingwithDiscountCodes5-a2f08222eff1ed6c10b602525a417464.png",
+    "build/assets/images/WorkingwithDiscountCodes6-bf2731aaac826890535ceafe5cd4bc6e.png",
+    "Untitled.canvas"
+  ]
+}
